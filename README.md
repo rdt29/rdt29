@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 <p> My name is Mauro and I'm a javascript developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Paraná, Brasil</b>. </p>
@@ -51,21 +50,3 @@
 <a href="https://storybook.js.org" target="_blank">
   <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
 </a>
-=======
-### Hi there 👋
-
-<!--
-**rdt29/rdt29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> parent of f693bf6 (Update README.md)
